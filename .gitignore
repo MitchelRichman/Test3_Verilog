@@ -1,0 +1,26 @@
+# Quartus игнорируемые файлы
+*.sof
+*.pof
+*.jic
+*.rbf
+*.hex
+*.elf
+
+# Папки с временными файлами
+db/
+incremental_db/
+simulation/
+output_files/
+greybox_tmp/
+hc_output/
+
+# Рабочее пространство
+*.qws
+
+# Логи
+*.log
+*.rpt
+
+# OS файлы
+.DS_Store
+Thumbs.db
